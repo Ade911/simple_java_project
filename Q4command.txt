@@ -208,7 +208,7 @@ To tackle the task of **integrating Jenkins with Version Control Systems** as a 
 By following these steps, you have successfully:
 - Integrated Jenkins with a Git repository.
 - Configured a Jenkins Freestyle job to clone and build a Java project.
-- Created a Jenkinsfile to define a CI/CD pipeline, including stages for building, testing, and deploying the application.
+- Created a Jenkinsfile to define a CI/CD pipeline, including stages for building, testing, and deploying the application. Edited
 
 This setup demonstrates an essential DevOps workflow, allowing you to automate building and deploying applications using Jenkins pipelines.
 Testing actually
